@@ -6,7 +6,10 @@ class Banner extends Component {
     state = {  }
     render() { 
         return ( <div>
-            <img src= { Clovers } alt="" width="100%" height="200px" object-fit="cover"/>
+            <img src= { Clovers } alt="" width="100%" height="300px" object-fit="cover"/>
+            <h3>THE NAUTILUS SPOTLIGHT</h3>
+            <h1> WHY THE LAWS OF PHYSICS ARE INEVITABLE</h1>
+            <button>READ NOW</button>
         </div> );
     }
 }
