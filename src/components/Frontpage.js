@@ -8,7 +8,7 @@ class Frontpage extends Component {
     return (
       <div>
         <div className="matches">
-        <img className="matches" src={Background} width="100%" alt="" />
+          <img className="matches" src={Background} width="100%" alt="" />
           <h3>ISSUE 079</h3>
           <h1>Catalysts</h1>
           <p>Agents of Change</p>
@@ -17,7 +17,7 @@ class Frontpage extends Component {
         </div>
       </div>
     );
-  } 
+  }
 }
 
 export default Frontpage;

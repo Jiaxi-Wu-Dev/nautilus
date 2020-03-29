@@ -4,10 +4,11 @@
 }
 
 .issueButton {
-  background: red;
-  border-radius: 8px;
+  background: black;
+  border-radius: 2px;
   color: white;
 }
+
 
 h2 { 
   position: absolute; 

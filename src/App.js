@@ -1,11 +1,13 @@
 import React from "react";
 import "./App.css";
 import Frontpage from "./components/Frontpage";
+import Midpage from "./components/Midpage"
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <Frontpage />
+      <Midpage />
     </div>
   );
 }
