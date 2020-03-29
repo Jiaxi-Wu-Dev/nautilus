@@ -2,6 +2,7 @@
 
 import React, { Component } from "react";
 import Goldenglobe from "/Users/dmac/Desktop/PerScholas/hw/nautilus_mockup/nautilus/src/assets/ai.png";
+import "../App.css";
 
 class Sidebar extends Component {
   state = {};
@@ -29,12 +30,12 @@ class Sidebar extends Component {
               <h3> Stars </h3>
             </div>
           </div>
+        </div>
           <div className="sidePictures">
             <div>
-                <img src={Goldenglobe} alt="" />
+              <img src={Goldenglobe} alt="" width="800px" height="200px"/>
             </div>
           </div>
-        </div>
       </div>
     );
   }
