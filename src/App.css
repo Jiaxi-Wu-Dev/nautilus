@@ -4,7 +4,10 @@
   color: white;
 }
 
-.navbar{
+.navbar {
   display: flex;
-  flex-direction: row
+  flex-direction: row;
+  list-style-type: none;
+  justify-content: flex-end;
+  margin-left: 10px;
 }

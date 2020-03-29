@@ -4,8 +4,8 @@ class Navbar extends Component {
   state = {};
   render() {
     return (
-      <div className="navbar">
-        <ul>
+      <div>
+        <ul className="navbar">
           <li>Issues</li>
           <li>Topics</li>
           <li>Blog</li>
