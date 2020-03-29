@@ -1,3 +1,5 @@
+// Create a banner component and import it to the Midpage component
+
 import React, { Component } from 'react';
 import "../App.css"
 import Clovers from '/Users/dmac/Desktop/PerScholas/hw/nautilus_mockup/nautilus/src/assets/clover_card.jpg'

@@ -1,3 +1,5 @@
+// Make a midpage component then import it to App.js
+
 import React, { Component } from 'react';
 import "../App.css";
 import Navbar from "./Navbar"

@@ -1,3 +1,5 @@
+// Create a front page component, and then import it to App.js 
+
 import React, { Component } from "react";
 // need to import image
 import Background from "/Users/dmac/Desktop/PerScholas/hw/nautilus_mockup/nautilus/src/assets/matches.png";

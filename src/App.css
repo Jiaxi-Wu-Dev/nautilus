@@ -11,3 +11,8 @@
   justify-content: space-around;
   margin-left: 10px;
 }
+
+.sidebarMain{
+  display: flex;
+  
+}

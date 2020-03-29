@@ -1,10 +1,13 @@
+// build a sidebar and then import it to the midpage component
+
 import React, { Component } from "react";
+import Goldenglobe from "/Users/dmac/Desktop/PerScholas/hw/nautilus_mockup/nautilus/src/assets/ai.png";
 
 class Sidebar extends Component {
   state = {};
   render() {
     return (
-      <div>
+      <div className="sidebarMain">
         <div className="sidebar">
           <h3>ISSUE 079</h3>
           <h1>CATALYSTS</h1>
@@ -23,7 +26,12 @@ class Sidebar extends Component {
             </div>
             <div className="chapterFour">
               <h3> CHAPTER Four</h3>
-              <h3> Energy </h3>
+              <h3> Stars </h3>
+            </div>
+          </div>
+          <div className="sidePictures">
+            <div>
+                <img src={Goldenglobe} alt="" />
             </div>
           </div>
         </div>
