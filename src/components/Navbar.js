@@ -4,7 +4,7 @@ class Navbar extends Component {
   state = {};
   render() {
     return (
-      <div>
+      <div className="navbar">
         <ul>
           <li>Issues</li>
           <li>Topics</li>

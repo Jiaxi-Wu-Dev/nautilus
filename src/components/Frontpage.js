@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 // need to import image
 import Background from "/Users/dmac/Desktop/PerScholas/hw/nautilus_mockup/nautilus/src/assets/matches.png";
+import "./App.css";
 
 class Frontpage extends Component {
   state = {};

@@ -1,18 +1,10 @@
-.matches {
-  position: relative; 
-  width: 100%; /* for IE 6 */
-}
-
 .issueButton {
   background: black;
   border-radius: 2px;
   color: white;
 }
 
-
-h2 { 
-  position: absolute; 
-  top: 200px; 
-  left: 0; 
-  width: 100%; 
+.navbar{
+  display: flex;
+  flex-direction: row
 }
