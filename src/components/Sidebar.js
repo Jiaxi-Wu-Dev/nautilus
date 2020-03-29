@@ -2,6 +2,8 @@
 
 import React, { Component } from "react";
 import Goldenglobe from "/Users/dmac/Desktop/PerScholas/hw/nautilus_mockup/nautilus/src/assets/ai.png";
+import Colorsticks from "/Users/dmac/Desktop/PerScholas/hw/nautilus_mockup/nautilus/src/assets/music.png";
+import Guy from "/Users/dmac/Desktop/PerScholas/hw/nautilus_mockup/nautilus/src/assets/art.png"
 import "../App.css";
 
 class Sidebar extends Component {
@@ -34,6 +36,10 @@ class Sidebar extends Component {
           <div className="sidePictures">
             <div>
               <img src={Goldenglobe} alt="" width="800px" height="200px"/>
+            </div>
+            <div>
+            <img src={Colorsticks} alt="" width="300px"/>
+              <img src={Guy} alt="" width="300px"/>
             </div>
           </div>
       </div>

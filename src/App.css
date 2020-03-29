@@ -17,3 +17,8 @@
   flex-direction: row;
   justify-content: center;
 }
+
+.sidePictures{
+  display: flex;
+  flex-direction: column;
+}
