@@ -6,7 +6,7 @@ class Banner extends Component {
     state = {  }
     render() { 
         return ( <div>
-            <img src= { Clovers } alt="" width="100%" height="20%"/>
+            <img src= { Clovers } alt="" width="100%" height="200px" object-fit="cover"/>
         </div> );
     }
 }
