@@ -38,8 +38,8 @@ class Sidebar extends Component {
               <img src={Goldenglobe} alt="" width="800px" height="200px"/>
             </div>
             <div>
-            <img src={Colorsticks} alt="" width="300px"/>
-              <img src={Guy} alt="" width="300px"/>
+            <img src={Colorsticks} alt="" width="400px"/>
+              <img src={Guy} alt="" width="400px"/>
             </div>
           </div>
       </div>
