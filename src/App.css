@@ -18,7 +18,13 @@
   justify-content: center;
 }
 
-.sidePictures{
+.sidePictures {
   display: flex;
   flex-direction: column;
+}
+
+.heading {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
