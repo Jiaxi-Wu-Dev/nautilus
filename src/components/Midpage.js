@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import "../App.css";
 import Navbar from "./Navbar"
+import Banner from "./Banner"
 
 class Midpage extends Component {
     state = {  }
@@ -8,6 +9,7 @@ class Midpage extends Component {
         return ( 
             <div>
                 <Navbar />
+                <Banner />
             </div>
          );
     }

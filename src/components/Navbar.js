@@ -6,7 +6,7 @@ class Navbar extends Component {
     return (
       <div>
         <ul className="navbar">
-            <img src="/" alt=""/>
+            <img src="" alt=""/>
           <li>Issues</li>
           <li>Topics</li>
           <li>Blog</li>
