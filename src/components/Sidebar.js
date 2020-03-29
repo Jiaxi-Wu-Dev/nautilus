@@ -21,6 +21,10 @@ class Sidebar extends Component {
               <h3> CHAPTER Three</h3>
               <h3> Energy </h3>
             </div>
+            <div className="chapterFour">
+              <h3> CHAPTER Four</h3>
+              <h3> Energy </h3>
+            </div>
           </div>
         </div>
       </div>
